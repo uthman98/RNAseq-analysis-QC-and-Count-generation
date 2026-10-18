@@ -1,0 +1,10 @@
+PASS	Basic Statistics	DRR416925_1.fastq
+PASS	Per base sequence quality	DRR416925_1.fastq
+PASS	Per sequence quality scores	DRR416925_1.fastq
+FAIL	Per base sequence content	DRR416925_1.fastq
+PASS	Per sequence GC content	DRR416925_1.fastq
+PASS	Per base N content	DRR416925_1.fastq
+PASS	Sequence Length Distribution	DRR416925_1.fastq
+FAIL	Sequence Duplication Levels	DRR416925_1.fastq
+PASS	Overrepresented sequences	DRR416925_1.fastq
+PASS	Adapter Content	DRR416925_1.fastq
